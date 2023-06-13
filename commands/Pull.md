@@ -17,4 +17,4 @@ If there is any upstream connection established, you can use `git pull` without 
 
 ---
 
-[Back to home](./README.md)
+[Back to home](../README.md)
